@@ -3,7 +3,7 @@ function suma(a, b) {
 }
 
 if (suma(2, 3) !== 5) {
-  console.error("❌ Test fallido");
+  console.error("Test fallido");
   process.exit(1);
 }
 
